@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
-- 🌱 I’m a third-year Ph.D student in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
-- 🔭 I’m interested in research of natural language generation and dialogue system.
+- 🌱 I'm a fourth-year Ph.D student in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
+- 👯 I'm also currently a visiting Ph.D student in [UCLA PlusLab](https://vnpeng.net/).
+- 🔭 I'm interested in research on large language models, dialogue systems, and natural language generation.
 - 📫 How to reach me: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
 - 😄 Fun fact: Loving music, animation, and sports.
 
