@@ -1,10 +1,12 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
 - 🌱 I'm a fourth-year Ph.D student in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
-- 👯 I'm also currently a visiting Ph.D student in [UCLA PlusLab](https://vnpeng.net/).
+- 🌎 I'm currently a visiting scholar in [UCLA PlusLab](https://vnpeng.net/).
 - 🔭 I'm interested in research on large language models, dialogue systems, and natural language generation.
-- 📫 How to reach me: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
-- 😄 Fun fact: Loving music, animation, and sports.
+- 📫 Reach me for collaboration or mentorship: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
+- 😄 Loving music, animation, and basketball 🏀.
+
+<!--
 
 ## Github Stats
 
@@ -16,9 +18,6 @@
 
 <img src="https://profile-counter.glitch.me/chujiezheng/count.svg" />
 
-
-<!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,4 +26,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+
+-->
