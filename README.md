@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
-- 🌱 I'm a fourth-year PhD candidate in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
+- 🌱 I'm a final-year PhD candidate in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
 - 🌎 I'm currently a visiting scholar in [UCLA PlusLab](https://vnpeng.net/).
 - 🔭 I'm interested in research on large language models.
 - 📫 Reach me for collaboration: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
