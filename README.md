@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
-- 🌱 Final-year PhD candidate in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
-- 🌎 (Ex) Visiting scholar in [UCLA PlusLab](https://vnpeng.net/).
-- 🔭 Interested in research on large language models.
-- 📫 Reach me for collaboration: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
-- 😄 Loving music, animation, and basketball 🏀.
+- 🧐 Researcher @QwenLM
+- 🔭 Interested in large language models and scalable AI systems
+- 🌱 Final-year PhD candidate at Tsinghua University
+- 🌎 (Prev) visiting scholar at UCLA
 
 <!--
 
