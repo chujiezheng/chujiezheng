@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
-- 🧐 Researcher @QwenLM
-- 🔭 Interested in large language models and scalable AI systems
+- 🧐 Researcher at the Qwen Team
+- 🔭 Diving into large language models and scalable AI systems
 - 🌱 Final-year PhD candidate at Tsinghua University
 - 🌎 (Prev) visiting scholar at UCLA
 
